@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class MinConv {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 Scanner sc = new Scanner(System.in);
 System.out.println("Input the number of minutes: ");
 int min = sc.nextInt();
